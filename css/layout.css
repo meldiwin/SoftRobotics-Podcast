@@ -100,13 +100,13 @@ header .social li a:hover { color: #11ABB0; }
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
-   bottom: 30px;
+   bottom: 50px;
    left: 50%;
    margin-left: -29px;
    color: #fff;
    display: block;
-   height: 42px;
-   width: 42px;
+   height: 60px;
+   width: 60px;
    font-size: 42px;
    line-height: 42px;
    color: #fff;
@@ -134,7 +134,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
-   margin: 0 auto;
+   margin: 0;
    z-index: 100;
    position: fixed;
    left: 0;
